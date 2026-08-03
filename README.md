@@ -1,19 +1,17 @@
-# 📊 Telecom Customer Churn Prediction
+# 📊 Telecom Customer Churn Analysis
 
-📌 Overview
+## 📌 Overview
+This project performs **Exploratory Data Analysis (EDA)** on the Telecom Customer Churn dataset to understand customer behavior and identify the factors associated with churn.
 
-This project analyzes customer churn in the telecom industry using machine learning. It helps identify factors leading to churn and predicts whether a customer is likely to leave.
+## 🚀 Project Highlights
+- Data cleaning & preprocessing
+- Exploratory Data Analysis (EDA)
+- Customer churn insights
+- Visualizations using charts and graphs
 
-🚀 Features
-
-→ Data preprocessing and cleaning
-
-→ Exploratory Data Analysis (EDA) with visual insights
-
-🛠️ Tech Stack
-
-→ Python 🐍
-
-→ Pandas, NumPy for data manipulation
-
-→ Matplotlib, Seaborn for visualization
+## 🛠️ Tech Stack
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
